@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kalakendra/static/css/main.3dc5b0cd.css",
+    "main.js": "/kalakendra/static/js/main.a8f5cc66.js",
+    "static/js/453.e29c6e19.chunk.js": "/kalakendra/static/js/453.e29c6e19.chunk.js",
+    "index.html": "/kalakendra/index.html",
+    "main.3dc5b0cd.css.map": "/kalakendra/static/css/main.3dc5b0cd.css.map",
+    "main.a8f5cc66.js.map": "/kalakendra/static/js/main.a8f5cc66.js.map",
+    "453.e29c6e19.chunk.js.map": "/kalakendra/static/js/453.e29c6e19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc5b0cd.css",
+    "static/js/main.a8f5cc66.js"
+  ]
+}
