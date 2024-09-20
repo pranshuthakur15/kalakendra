@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: white; /*Dark green */
+  background-color: white; 
   background-size: 30rem; /* Ensures the image covers the entire navbar */
   background-position: top; /* Centers the background image */
   background-repeat: repeat; /* Prevents repeating the image */

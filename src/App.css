@@ -43,23 +43,11 @@ html {
 }
 
 
-/* App.css */
-#home, #about, #services, #portfolio, #contact {
-  padding: 100px 0;
-}
-
-#about {
-  background-color: #f9f9f9;
-}
-
-#services {
-  background-color: #eaeaea;
-}
-
-#portfolio {
-  background-color: #fff;
-}
-
-#contact {
-  background-color: #f2f2f2;
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
